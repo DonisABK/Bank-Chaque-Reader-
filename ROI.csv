@@ -1,0 +1,16 @@
+Bcode,Bank Name,W x H,Total height from top ,Name end vertical,Name end horizontal,OCR from top,Date from left,Date from top,Body start from top,Body end
+,,,,,,,,,,
+BB,Bandhan Bank,4819 x 2280,2280,470,2200,1930,3320,500,400,1400
+BOI,Bank of India,4819 x 2280,2280,480,2000,1800,3320,500,450,1500
+CB,Canara Bank,4819 x 2280,2280,460,1700,1800,3400,550,400,1500
+CBI,Central Bank of India,4819 x 2280,2280,460,1500,1800,3300,500,400,1500
+DB,Dhanalaxmi Bank,,2300,530,1500,1800,3300,500,400,1500
+IB,Indian Bank,,2300,500,1400,1800,3200,500,400,1400
+KCUB,Kottayam Co-operative Urban Bank,,2300,500,2000,1800,3400,500,400,1500
+PNB,Punjab National Bank,,2300,400,2300,1800,3000,500,400,1550
+SBI,State Bank of India,,2300,450,1700,1800,3200,500,300,1400
+SIB,South Indian Bank,,2300,550,2000,1800,3200,550,400,1500
+TCCUB,The Changanacherry Co-operative Urban Bank,,2300,400,2700,1800,3200,550,400,1500
+TFB,The Federal Bank,,2300,450,1500,1800,3200,450,400,1500
+TKDCB,The Kottayam District Co-Operative Bank,,2300,400,2600,1800,3200,550,370,1500
+UB,Union Bank,,2300,400,2000,1800,3000,500,350,1500
